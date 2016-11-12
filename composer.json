@@ -2,7 +2,7 @@
     "name": "muhamadrezaar/country",
     "description": "Laravel 5 Country Package",
     "type": "Library",
-    "license": "https://reza.mit-license.org/",
+    "license": "MIT",
     "authors": [
         {
             "name": "Muhamad Reza Abdul Rohim",
