@@ -11,7 +11,7 @@ seperti nama negara , top level domain , ibu kota  , benua dll
 
 Tambahkan Package pada composer.json
 ```sh
-composer require muhamadrezaar/country:0.0.1
+composer require muhamadrezaar/country:0.0.2
 ```
 setelah package terdownload , register  provider  dan facade nya
 
