@@ -5,7 +5,7 @@
 
 
 Package yang fungsinya untuk mencari data negara diseluruh dunia
-seperti nama negara , top level domain , ibu kota  , benua dall
+seperti nama negara , top level domain , ibu kota  , benua dll
 
 ### Installasi
 
